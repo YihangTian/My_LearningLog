@@ -58,7 +58,8 @@ params:
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: /images/R-C.png
+            #src: img/avatar.png
 
     article:
         math: false
