@@ -58,7 +58,7 @@ params:
         avatar:
             enabled: true
             local: true
-            src: /images/R-C.png
+            src: img/R-C.png
             #src: img/avatar.png
 
     article:
