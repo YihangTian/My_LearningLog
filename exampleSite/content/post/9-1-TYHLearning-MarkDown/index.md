@@ -21,7 +21,9 @@ tags = [
 
 ### Markdown 内使用 [HTML](https://www.w3school.com.cn/html/html_jianjie.asp "HTML 的学习网址") 语句
 
-Markdown 的官方语法是可以使用下面的代码实现<a href="###1" target="_self">定义列表</a>的（额，官方的在线编辑器也不支持 -_-），但 VSCode 预览没有效果，所以采用 HTML 格式的语法。
+Markdown 的官方语法是可以使用下面的代码实现<a href="#1" target="_self">定义列表</a>的（额，官方的在线编辑器也不支持 -_-），但 VSCode 预览没有效果，所以采用 HTML 格式的语法。
+
+<h4 id="1">定义列表</h4>
 
 ```markdown
 <!--官方说可用代码，这里采用的是HTML的注释方法-->
@@ -48,13 +50,13 @@ Second Term
 
 ![定义列表展示图片](定义列表.jpg)
 
-<h3 id="1">采用 HTML 实现页面内标题跳转</h3>
+<h3>采用 HTML 实现页面内标题跳转</h3>
 
 ```html
 <h1 id="1">采用 HTML 实现页面内标题跳转</h1>
 <a href="#1" target="_self">定义列表</a>
 ```
 
-其中 [h1](NONE "第一列") 对应 [#](NONE "第一列") 表示一级标题。
+其中 [h1](NONE "第一列") 对应 [#](NONE "第一列") 表示一级标题。（错了，只看标题不对应序号）
 
 [id="1"](NONE "第一列") 对应 [href="#1"中的 1](NONE "第一列") 表示链接编号为1
