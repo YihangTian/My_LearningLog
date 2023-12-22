@@ -21,7 +21,7 @@ tags = [
 
 ### Markdown 内使用 [HTML](https://www.w3school.com.cn/html/html_jianjie.asp "HTML 的学习网址") 语句
 
-Markdown 的官方语法是可以使用下面的代码实现<a href="#定义列表">定义列表</a>的（额，官方的在线编辑器也不支持 -_-），但 VSCode 预览没有效果，所以采用 HTML 格式的语法。
+Markdown 的官方语法是可以使用下面的代码实现[定义列表](#定义列表)的（额，官方的在线编辑器也不支持 -_-），但 VSCode 预览没有效果，所以采用 HTML 格式的语法。
 
 #### 定义列表
 
