@@ -17,6 +17,8 @@ tags = [
 
 第一点：在文件夹post添加新的文件夹，目前标题格式 -> 9-1-TYHLearning-网站布置学习像这样
 第二点：添加如下内容（markdown 文件首部添加）
+
+```markdown
     +++
     author = "TYH"
     title = "TYHLearning——MarkDown"
@@ -29,15 +31,15 @@ tags = [
         "TYHLearning","MarkDown"
     ]
     +++
+```
 
-### yaml
+### yaml 数据格式
 
 YAML（YAML Ain't Markup Language 或 YAML Ain't a Markup Language）是一种轻量级的数据序列化格式，通常用于配置文件和数据交换格式。它的设计目标是易读、易写，并且能够简洁地表达复杂的数据结构。
 
 YAML 文件使用缩进和空格的结构表示层次关系，而不使用像 JSON 或 XML 那样的符号。它以易读的方式描述数据，并强调数据的表达清晰度。以下是一个简单的 YAML 文件的例子：
 
 ```ymal
-
 name: John Doe
 age: 30
 city: New York
