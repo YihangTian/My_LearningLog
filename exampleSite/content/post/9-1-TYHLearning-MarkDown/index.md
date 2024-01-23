@@ -17,7 +17,11 @@ tags = [
 
 ### Markdown [官方网址](https://markdown.com.cn/extended-syntax/automatic-url-linking.html)
 
-### 标题语法
+Typora [语法大全](https://zhuanlan.zhihu.com/p/138627806)
+
+Typora [一站式使用教程](https://blog.csdn.net/feizuiku0116/article/details/119898062)
+
+## 标题语法
 
 ### Markdown 内使用 [HTML](https://www.w3school.com.cn/html/html_jianjie.asp "HTML 的学习网址") 语句
 
